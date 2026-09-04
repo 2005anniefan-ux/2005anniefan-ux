@@ -1,6 +1,6 @@
 # Hi, I'm Annie 👋
 
-I'm a Computer Systems Technology student at BCIT with an interest in full-stack web development, databases, and building practical applications.
+I'm a Computer Systems Technology student at BCIT.
 
 ## Projects
 
@@ -17,7 +17,7 @@ NibbleWise is an educational web application designed to help users learn about 
 **Technologies:**  
 Node.js • Express • MongoDB • EJS • JavaScript • Bootstrap • Joi
 
-[View Project Repository](YOUR_NIBBLEWISE_GITHUB_LINK)
+[View NibbleWise on GitHub](https://github.com/annie-ayzf/2800-202610-BBY09)
 
 ---
 
@@ -34,7 +34,7 @@ Fast Pass is a restaurant wait-time application that helps users compare nearby 
 **Technologies:**  
 JavaScript • Bootstrap • Firebase • Firestore • Firebase Authentication
 
-[View Project Repository](YOUR_FAST_PASS_GITHUB_LINK)
+[View FastPass on GitHub](https://github.com/ZMozzy/1800_202610_BBY10)
 
 ## Skills
 

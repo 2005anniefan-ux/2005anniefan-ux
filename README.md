@@ -27,7 +27,7 @@ Java • Spring Boot • Spring Data JPA • REST APIs • React • JavaScript 
 
 NibbleWise is an educational web application designed to help users learn about edible and non-edible plants through plant information, search features, and interactive learning tools.
 
-**What I worked on:**
+**My Contributions — Full Stack Develope**
 - Built the plant information page with search functionality and dynamic plant displays
 - Developed login, signup, and authentication features
 - Used Joi for input validation and MongoDB for application data
@@ -46,7 +46,7 @@ Node.js • Express • MongoDB • EJS • JavaScript • Bootstrap • Joi
 
 Fast Pass is a restaurant wait-time application that helps users compare nearby restaurants using location, operating hours, and color-coded wait-time information.
 
-**What I worked on:**
+**My Contributions — Full Stack Developer**
 - Implemented an interactive map with color-coded restaurant markers
 - Built login and signup functionality using Firebase Authentication
 - Worked with Firestore to store and retrieve application data

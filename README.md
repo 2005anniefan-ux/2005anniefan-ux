@@ -21,7 +21,7 @@ Java • Spring Boot • Spring Data JPA • REST APIs • React • JavaScript 
 
 **Team:** 3 developers | **October 2026**
 
-[View Project on GitHub](YOUR_REPOSITORY_URL)
+[View Project on GitHub](https://github.com/JDeni1/DoubleTake.git)
 
 ### NibbleWise — Plant Safety Learning Web App
 

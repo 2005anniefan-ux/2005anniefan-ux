@@ -5,7 +5,6 @@ I'm a Computer Systems Technology student at BCIT.
 ## Projects
 
 ### Double Take | Double-Dating Web Application
-**Java · Spring Boot · React · TiDB · Supabase · REST APIs**
 
 🏆 **Winner — TiDB × AI Open Build Track | StormHacks 2026**
 
